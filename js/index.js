@@ -43,8 +43,8 @@ function getStatus(channelName) {
 
       if (data.stream == null) {
 
-       var cardDeck_start = '<div class="col-sm-6 col-md-4 col-lg-3">';
-        var card_start = '<div class="card border-danger offline mb-4">';
+       var cardDeck_start = '<div class="col-sm-6 col-md-4 col-lg-3 offline">';
+        var card_start = '<div class="card border-danger  mb-4">';
         var image_logo = '<div class="center pt-2"><img class="logo" src="https://dummyimage.com/300x300/e0e0e0/000000&text=Offline" alt="Logo"></div>';
 
         var card_body ='<div class="card-body card-body-width"><h5 class="card-title">'+ channelName +'</h5><h6 class="card-subtitle mb-2 text-muted"></h6></div><small class="text-muted"><i class="fa fa-eye-slash"></i></small><hr>';
@@ -74,8 +74,8 @@ function getStatus(channelName) {
         var game = data.stream.channel.game;
 
 
-        var cardDeck_start = '<div class="col-sm-6 col-md-4 col-lg-3">';
-        var card_start = '<div class="card border-success online mb-4">';
+        var cardDeck_start = '<div class="col-sm-6 col-md-4 col-lg-3 online">';
+        var card_start = '<div class="card border-success  mb-4">';
         var image_logo = '<div class="center pt-2"><img class="logo" src='+ logo +' alt="Logo"></div>';
         var card_body ='<div class="card-body card-body-width"><h5 class="card-title">'+ name +'</h5><h6 class="card-subtitle mb-2 text-muted">'+'<i class="fa fa-gamepad"></i> ' +  game+'</h6></div><small class="text-muted"><i class="fa fa-eye"></i> '+data.stream.channel.views + '</small><hr>';
        
