@@ -1,0 +1,31 @@
+
+hr{
+  visibility :  hidden;
+}
+
+.card-body-width 
+{
+  height: 5rem;
+}
+
+
+
+.header{
+  color: #9575CD;
+
+  text-shadow: 0 0 5px #9575CD, 0 0 10px #A5F1FF,
+   0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+   0 0 40px #A5F1FF;
+}
+
+.logo {
+  max-width: 75px;
+  max-height: 75px;
+  border-radius: 50%;
+}
+
+.btn-group {
+  margin: 0 auto; 
+  display: inline-block;
+}
+
