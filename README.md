@@ -7,4 +7,6 @@ Responsive Design Using Following Concept :
 -  Font-Awesome Library
 -  jQuery
 
-Live at :  https://jaimin-p.github.io/Twitch-TV-Streamer/
+# https://jaimin-p.github.io/Twitch-TV-Streamer/
+
+![twitch](https://user-images.githubusercontent.com/37629359/45275850-0a3da280-b48d-11e8-8249-b1494c138c99.PNG)
