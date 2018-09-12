@@ -8,5 +8,5 @@ Responsive Design Using Following Concept :
 -  jQuery
 
 ### https://jaimin-p.github.io/Twitch-TV-Streamer/
+![twitch](https://user-images.githubusercontent.com/37629359/45400914-39cee500-b61c-11e8-8482-727385d2e362.PNG)
 
-![twitch](https://user-images.githubusercontent.com/37629359/45275850-0a3da280-b48d-11e8-8249-b1494c138c99.PNG)
